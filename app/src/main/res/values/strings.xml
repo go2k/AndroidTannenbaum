@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tannebaum</string>
+    <string name="btn_Zeichen">Zeichen</string>
+    <string name="et_Hoehe">Höhe des Baums</string>
+    <string name="tvHint">hier kommt der Baum...</string>
+</resources>
